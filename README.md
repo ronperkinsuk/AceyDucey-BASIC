@@ -1,7 +1,9 @@
-# Amazing
+# Acey Ducey
 
-This game written in BASIC and will print out a different maze every time it is run and gurantees only one path through. You can choose the dimensions of the maze - i.e the number of squares wide and long. 
+This game written in BASIC was a simulation of the Acey Ducey card game. In the game, the dealer (the computer) deals teo cards face up. You have an option to bet or not to bet depending on whether or not you feel the next card dealt will have a value between the first two. 
 
-The original program author was Jack Hauber of Windsor, Connecticut, and the game was published in the 1978 BASIC Computer Games book from Creative Computing.
+Yout initial money (Q) is set to $100; you may alter statement 110 if you want to start with more or less than $100. The game keeps going on until you lose all your money or you intrerupt the program. 
 
-![2024-01-26 17_41_04-BASIC Computer Games Microcomputer Edition (1978)(Creative Computing)(pdf)](https://github.com/philspil66/Amazing/assets/14840708/2ffcf0d8-935c-4040-b6a7-d512d91dad90)
+The original program author was Bill Palmby of Praire View, Illinoi, and the game was published in the 1978 BASIC Computer Games book from Creative Computing. 
+
+![BASIC-AceyDuecy](https://github.com/philspil66/AceyDucey/assets/14840708/c8804bc3-6552-4823-bf65-5730e747192e)
